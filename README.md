@@ -1,6 +1,6 @@
-# TodoList
+# Movie App
 
-### development environment
+### Development environment
 - React.js
 - yts api (https://yts.mx/api#list_movies)
 
