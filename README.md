@@ -9,7 +9,7 @@
 - move detail view
 
 ### Screenshots
-<img width="706" alt="Screen Shot 2020-02-20 at 11 51 44 PM" src="https://user-images.githubusercontent.com/33794732/74946068-15e01780-543c-11ea-8b1a-8c35f869ccbe.png">
+![ezgif com-optimize](https://user-images.githubusercontent.com/33794732/75170944-3d9deb00-576e-11ea-960f-d79e9d735b23.gif)
 
 ### References
 - Nomad Coders
