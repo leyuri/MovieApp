@@ -4,7 +4,7 @@
 - React.js
 - yts api (https://yts.mx/api#list_movies)
 
-### Implementation
+### Features
 - movie list view
 - move detail view
 
